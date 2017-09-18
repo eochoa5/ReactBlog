@@ -1,0 +1,1 @@
+export const myApi = "url here";
